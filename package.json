@@ -2,7 +2,13 @@
   "name": "jasmocha",
   "version": "0.0.1",
   "description":"Use jasmine matchers in mocha",
+  "license": "MIT",
+  "repository" : 
+  {
+	"type" : "git",
+	"url" : "https://github.com/hacker112/jasmocha"
+  },
   "dependencies": {
-    "jasmine-core": "^2.2.0",
+    "jasmine-core": "^2.2.0"
   }
 }
