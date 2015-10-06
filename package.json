@@ -1,0 +1,8 @@
+{
+  "name": "jasmocha",
+  "version": "0.0.1",
+  "description":"Use jasmine matchers in mocha",
+  "dependencies": {
+    "jasmine-core": "^2.2.0",
+  }
+}
