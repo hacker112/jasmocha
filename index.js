@@ -4,7 +4,7 @@
 //
 (function () {
     'use strict';
-    var jasmineRequire = require('jasmine-core'),
+    var jasmineRequire = require('jasmine-core/lib/jasmine-core/jasmine'),
         jasmine = jasmineRequire.core(jasmineRequire);
 
     //
